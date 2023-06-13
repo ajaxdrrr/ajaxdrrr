@@ -1,6 +1,10 @@
 ### About ajaxdrrr 👾
-I'm Aj I love creating new things that innovates
-### • I'm Interested in Software development and Web Development ⚡
+• I'm Aj and I love creating new things that innovates.
+• I just finished my course in Full-stack Web Development.
+• Interested in Software Development and Web Development.
+• Open for entry level jobs and internship.
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
 ### • I just finished my course in Full-Stack Web Development 🌱
 
 
