@@ -3,7 +3,7 @@
 • I just finished my course in Full-stack Web Development.<br>
 • Interested in Software Development and Web Development.<br>
 • Open for entry level jobs and internship.<br>
-### Languages
+### Skills
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
