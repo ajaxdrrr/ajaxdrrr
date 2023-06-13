@@ -5,7 +5,7 @@
 • Open for entry level jobs and internship.<br>
 ### Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&logoColor=white)
-[![Java]([https://img.shields.io/badge/Java-%23ED8B00.svg?&style=flat&logo=java&logoColor=white](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white))](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+[![Java](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ### • I just finished my course in Full-Stack Web Development 🌱
 
 
