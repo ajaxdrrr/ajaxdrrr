@@ -1,7 +1,8 @@
-### • Hi, I'm AJ 👋
+### About ajaxdrrr 👾
+I'm Aj I love creating new things that innovates
 ### • I'm Interested in Software development and Web Development ⚡
 ### • I just finished my course in Full-Stack Web Development 🌱
-### • Open for Entry Level jobs / Internships 💬
+
 
 
 <!--
